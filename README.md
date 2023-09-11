@@ -8,8 +8,6 @@
 
 ## <img width="30" src = "/images/about_me.gif" > About me
 
----
-
 - :computer: Senior Frontend Web Developer **&** Top Rated Seller on [Fiverr](https://www.fiverr.com/)
 - :fire: Expert in `JavaScript`, `TypeScript`, `ReactJS`, `NextJS`, `Tailwind CSS`, `Material UI`, `Bootstrap`, `NodeJS`, `ExpressJS`, `Redux` **&** More.
 - :chart_with_upwards_trend: Over `5 years` of delivering high-quality web applications tailored to client needs
