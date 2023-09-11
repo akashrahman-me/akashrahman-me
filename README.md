@@ -50,7 +50,7 @@
 
 <h3>Statistical Data :-</h3>
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashrahman-me&theme=radical&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="akashrahman-me" /> <img align="right" width="46.8%" src="https://github-readme-stats.vercel.app/api?username=akashrahman-me&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashrahman-me&theme=radical&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="akashrahman-me" /> <img align="right" width="47.4%" src="https://github-readme-stats.vercel.app/api?username=akashrahman-me&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
       alt="akashrahman-me" />
 <br >
 
