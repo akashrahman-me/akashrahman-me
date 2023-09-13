@@ -8,7 +8,7 @@
 
 ## <img width="30" src = "/images/about_me.gif" > About me
 
-- :computer: Senior Frontend Web Developer **&** Top Rated Seller on [Fiverr](https://www.fiverr.com/)
+- :computer: Senior Frontend Web Developer **&** Top Rated Freelancer on [Fiverr](https://www.fiverr.com/)
 - :fire: Expert in `JavaScript`, `TypeScript`, `ReactJS`, `NextJS`, `Tailwind CSS`, `Material UI`, `Bootstrap`, `NodeJS`, `ExpressJS`, `Redux` **&** More.
 - :chart_with_upwards_trend: Over `5 years` of delivering high-quality web applications tailored to client needs
 - :star2: Achieved excellent client satisfaction on Fiverr with a focus on `clear communication`, `time management`, **&** `agile approach`
@@ -17,7 +17,6 @@
 - :book: Continuously evolving in the web dev world & eager to tackle new challenges
 
 <br>
-<br>
 
 ## 🛠️ My Skills
 
@@ -25,23 +24,23 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=PHP&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px> </picture> Frontend Development
+### <picture> <img src = "/images/Front_End.gif" width = 20px> </picture> Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-00D8FF?style=flat-square&logo=React&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-5ed3f3?style=flat-square&logo=React&logoColor=black) ![Material UI](https://img.shields.io/badge/Material_UI-007bf7?style=flat-square&logo=MUI&logoColor=white) ![Material UI](https://img.shields.io/badge/Boostrap-6d11ee?style=flat-square&logo=bootstrap&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px> </picture> Software & Tools
+### <picture> <img src = "/images/Software_Tools.gif" width = 20px> </picture> Software & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white) ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px> </picture> IDEs
+### <picture> <img src = "/images/IDEs.gif" width = 20px> </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px> </picture> Operating Systems
+### <picture> <img src = "/images/OS.gif" width = 20px> </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white) ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px> </picture> Other Technologies
+### <picture> <img src = "/images/CP_PS.gif" width = 20px> </picture> Other Technologies
 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
@@ -86,6 +85,8 @@
 
 ## Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashrahman/) [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/akashrahman-me/) [![Bad Boy Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=white)](https://www.snapchat.com/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/akashrahman.me) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akashrahman.me@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com) [![Qwiklabs](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashrahman/) [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/akashrahman-me/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/akashrahman.me) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akashrahman.me@gmail.com)
+
+<!-- Backup social media logos  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com) [![Bad Boy Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=white)](https://www.snapchat.com/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com) [![Qwiklabs](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#) -->
 
 <br>
