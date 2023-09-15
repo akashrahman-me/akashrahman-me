@@ -84,7 +84,7 @@
 
 ## <img src="/images/diamond.gif" style="margin: 0 -0.5em -1em" width="64" alt=""> Game changing achievement
 
-![Top Rated Freelancer](/images/Top_Rated.jpg)
+![Top Rated Freelancer](/images/Top_Rated.png)
 
 <br>
 
