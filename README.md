@@ -40,13 +40,13 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white) ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-### <picture> <img src = "/images/CP_PS.gif" width = 20px> </picture> Other Technologies
+### <img src = "/images/CP_PS.gif" width = 20px /> Other Technologies
 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
 <br>
 
-<h3>Statistical Data :-</h3>
+## <img src="/images/analytics.gif" style="margin: 0 -0.5em -0.9em -0.5em" width="64" alt=""> Statistical Data :-
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashrahman-me&theme=radical&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="akashrahman-me" /> <img align="right" width="47.4%" src="https://github-readme-stats.vercel.app/api?username=akashrahman-me&theme=radical&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
       alt="akashrahman-me" />
@@ -79,6 +79,12 @@
 ```
 
 </h4>
+
+<br>
+
+## <img src="/images/diamond.gif" style="margin: 0 -0.5em -1em -0.5em" width="64" alt=""> The Badge of Trust and Quality
+
+![Top Rated Freelancer](/images/Top_Rated.jpg)
 
 <br>
 
