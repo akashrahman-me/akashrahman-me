@@ -82,7 +82,7 @@
 
 <br>
 
-## <img src="/images/diamond.gif" style="margin: 0 -0.5em -1em" width="64" alt=""> The Badge of Trust and Quality
+## <img src="/images/diamond.gif" style="margin: 0 -0.5rem -1.7rem; width: 70px" alt=""> The Badge of Trust and Quality
 
 ![Top Rated Freelancer](/images/Top_Rated.jpg)
 
